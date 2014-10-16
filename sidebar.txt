@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[asc:home|Door43 (asc)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-asc|d43-asc repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-asc/archive/master.zip|d43-asc.zip]]
+
+**Recent Changes**
+{{changes>ns = asc}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/asc|Ethnologue data]]
+
